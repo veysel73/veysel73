@@ -61,7 +61,7 @@
 ```javascript
 const veysel = {
     name: "Veysel Basan",
-    location: "Cizre, Şırnak 🇹🇷",
+    location: "Türkiye",
     role: "Full Stack Developer & AI Innovator",
     passions: ["Computer Vision 👁️", "VR/AR 🥽", "Web Development 🌐", "AI 🤖"],
     currentlyLearning: ["Python 🐍", "Unity 🎮", "React ⚛️", "Computer Vision 📸"],
