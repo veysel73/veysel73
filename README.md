@@ -219,6 +219,8 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 <!-- Animated Social Media GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Social Connect" width="400" />
+  <img src="https://tenor.com/tr/view/araslot-instagram-gif-4811728675841440778" alt="Social Connect" width="400" />
+  
 </p>
 
 <div align="center">
@@ -262,8 +264,3 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 <br/>
 
-<!-- Made with Love Badge -->
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
-</div>
