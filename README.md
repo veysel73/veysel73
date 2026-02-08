@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/🎨_Creative_Dev-4ECDC4?style=for-the-badge&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/🤖_AI_Explorer-FFE66D?style=for-the-badge&logo=tensorflow&logoColor=black" />
   <img src="https://img.shields.io/badge/🥽_VR_Pioneer-A8E6CF?style=for-the-badge&logo=oculus&logoColor=black" />
-  <img src="https://img.shields.io/badge/☕_Coffee_Lover-C7B198?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -167,14 +166,14 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 </p>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=veysel73&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=veysel73&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=veysel73&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=veysel73&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFF" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veysel73&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veysel73&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" alt="Top Languages" />
 </div>
 
 <br/>
@@ -202,7 +201,7 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=veysel73&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=veysel73&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -217,10 +216,9 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 <br/>
 
-<!-- Animated Handshake GIF -->
+<!-- Animated Social Media GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Handshake" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="Connect Animation" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Social Connect" width="400" />
 </p>
 
 <div align="center">
@@ -267,14 +265,5 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 <!-- Made with Love Badge -->
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
   <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
-</div>
-
-<!-- Music Visualization (Optional Fun Element) -->
-<div align="center">
-  <br/>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
-  <br/>
-  <sub>🎵 Currently vibing to some great music while coding! 🎵</sub>
 </div>
