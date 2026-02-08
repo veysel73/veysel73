@@ -218,31 +218,52 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 <!-- Animated Social Media GIF -->
 <p align="center">
- <p align="center">
-  <img
-    id="rotatingGif"
-    src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
-    width="400"
-    alt="Social Connect"
-  />
+<!-- Animated Social Media GIF (CSS Only - GitHub Compatible) -->
+<p align="center">
+  <div style="position: relative; width: 400px; height: 300px; margin: auto;">
+
+    <img
+      src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
+      style="position:absolute; width:400px; animation: gif1 9s infinite;"
+    />
+
+    <img
+      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW96bHl2ZGRtZ3k5OW16ampuZzU4YnpnbjN0d2lzejNzc2dhNGozZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"
+      style="position:absolute; width:400px; animation: gif2 9s infinite;"
+    />
+
+    <img
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl4YXhmMXp4bWYzbnkzN25pcGlnbXNxcnhhdmtqd25jNGk0bTMzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZOxRp5tZTemNQzpgc/giphy.gif"
+      style="position:absolute; width:400px; animation: gif3 9s infinite;"
+    />
+
+  </div>
 </p>
 
-<script>
-  const gifs = [
-    "https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif",
-    "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW96bHl2ZGRtZ3k5OW16ampuZzU4YnpnbjN0d2lzejNzc2dhNGozZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif",
-    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl4YXhmMXp4bWYzbnkzN25pcGlnbXNxcnhhdmtqd25jNGk0bTMzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZOxRp5tZTemNQzpgc/giphy.gif"
-  ];
+<style>
+@keyframes gif1 {
+  0% { opacity: 1; }
+  33% { opacity: 1; }
+  34% { opacity: 0; }
+  100% { opacity: 0; }
+}
 
-  let index = 0;
-  const imgElement = document.getElementById("rotatingGif");
+@keyframes gif2 {
+  0% { opacity: 0; }
+  33% { opacity: 0; }
+  34% { opacity: 1; }
+  66% { opacity: 1; }
+  67% { opacity: 0; }
+  100% { opacity: 0; }
+}
 
-  setInterval(() => {
-    index = (index + 1) % gifs.length;
-    imgElement.src = gifs[index];
-  }, 3000); // 3 saniye
-</script>
-
+@keyframes gif3 {
+  0% { opacity: 0; }
+  66% { opacity: 0; }
+  67% { opacity: 1; }
+  100% { opacity: 1; }
+}
+</style>
 
 
 
