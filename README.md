@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/25168849/README.2.md)
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -11,18 +10,49 @@
 
 <br/>
 
-<!-- 3D Rotating Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veysel73&custom_title=📈%20My%20Contribution%20Journey&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&theme=github-dark" width="100%" />
+<!-- Epic Animated Banner with Glowing Effects -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44569,100:A8E6CF&height=120&text=💻+CODE+•+CREATE+•+INNOVATE+💡&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 
-<br/>
+<!-- Animated Profile Views Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/veysel73/count.svg" alt="Visitor Count" />
+</p>
 
-<!-- Animated Tech Wave -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<!-- Dynamic Glowing Orbs Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</p>
 
-<!-- Matrix Style Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=🔥+Coding+is+my+passion+%7C+Innovation+is+my+mission+🔥;💡+Learning+%7C+Creating+%7C+Innovating+%7C+Sharing+💡;🌟+From+Ideas+to+Reality%2C+One+Commit+at+a+Time+🌟" />
+<!-- Animated Code Window Effect -->
+<div align="center">
+  
+```diff
+@@                    🚀 MY CODING JOURNEY 🚀                    @@
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
++ 🎯 Full Stack Development
++ 🤖 Artificial Intelligence & Computer Vision  
++ 🥽 Virtual Reality Experiences
++ 🎨 Creative Problem Solving
++ ⚡ Lightning-Fast Learner
+
+! 🔥 Always Pushing Boundaries
+! 💡 Innovation is My Middle Name
+! 🌟 Building the Future, Today
+
+- ❌ Boring Code
+- ❌ Comfort Zone
+- ❌ Giving Up
+```
+  
+</div>
+
+<!-- Rotating Hexagon Loader Effect -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animated Footer" />
+</p>
+
+<!-- Neon Glow Text Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=800&color=F70AFF&background=00000000&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=⚡+CODE+WARRIOR+⚡+DREAM+BUILDER+⚡;🎮+VR+CREATOR+🎮+AI+ENTHUSIAST+🎮;💎+FUTURE+TECH+ARCHITECT+💎;🚀+INNOVATION+NEVER+STOPS+🚀" />
 
 </div>
 
