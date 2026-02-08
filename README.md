@@ -10,49 +10,20 @@
 
 <br/>
 
-<!-- Epic Animated Banner with Glowing Effects -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44569,100:A8E6CF&height=120&text=💻+CODE+•+CREATE+•+INNOVATE+💡&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=40" />
-
-<!-- Animated Profile Views Counter -->
+<!-- Animated Coding GIF -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/veysel73/count.svg" alt="Visitor Count" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" />
 </p>
 
-<!-- Dynamic Glowing Orbs Animation -->
+<!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=70&lines=💻+Building+the+Future+with+Code;🤖+AI+%7C+Computer+Vision+%7C+VR+Development;🚀+Always+Learning%2C+Always+Creating" alt="Typing SVG" />
 </p>
 
-<!-- Animated Code Window Effect -->
-<div align="center">
-  
-```diff
-@@                    🚀 MY CODING JOURNEY 🚀                    @@
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
-+ 🎯 Full Stack Development
-+ 🤖 Artificial Intelligence & Computer Vision  
-+ 🥽 Virtual Reality Experiences
-+ 🎨 Creative Problem Solving
-+ ⚡ Lightning-Fast Learner
 
-! 🔥 Always Pushing Boundaries
-! 💡 Innovation is My Middle Name
-! 🌟 Building the Future, Today
-
-- ❌ Boring Code
-- ❌ Comfort Zone
-- ❌ Giving Up
-```
-  
-</div>
-
-<!-- Rotating Hexagon Loader Effect -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animated Footer" />
-</p>
-
-<!-- Neon Glow Text Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=800&color=F70AFF&background=00000000&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=⚡+CODE+WARRIOR+⚡+DREAM+BUILDER+⚡;🎮+VR+CREATOR+🎮+AI+ENTHUSIAST+🎮;💎+FUTURE+TECH+ARCHITECT+💎;🚀+INNOVATION+NEVER+STOPS+🚀" />
 
 </div>
 
@@ -116,6 +87,11 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 <br/>
 
+<!-- Animated Developer GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+</p>
+
 <table align="center">
   <tr>
     <td align="center" width="33%">
@@ -138,12 +114,20 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 ---
 
+<!-- Animated Wave Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 <!-- Tech Stack with Animations -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=00FF7F&center=true&vCenter=true&width=550&lines=⚡+TECH+STACK+%26+TOOLS+⚡" alt="Tech Stack" />
 </div>
 
 <br/>
+
+<!-- Animated Laptop Coding GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</p>
 
 ### 🎨 Frontend Development
 <p align="center">
@@ -167,12 +151,20 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 ---
 
+<!-- Animated Border -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 <!-- GitHub Stats with Glass Morphism -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=550&lines=📊+GITHUB+STATISTICS+📊" alt="Stats" />
 </div>
 
 <br/>
+
+<!-- Animated Computer GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" />
+</p>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=veysel73&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" />
@@ -194,6 +186,9 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 ---
 
+<!-- Animated Border -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 <!-- Trophy Section -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=550&lines=🏆+ACHIEVEMENTS+%26+TROPHIES+🏆" alt="Trophies" />
@@ -201,11 +196,19 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 <br/>
 
+<!-- Trophy Animation GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Fire" />
+</p>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=veysel73&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
+
+<!-- Animated Border -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- Connect Section with Animated Icons -->
 <div align="center">
@@ -213,6 +216,12 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 </div>
 
 <br/>
+
+<!-- Animated Handshake GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Handshake" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="Connect Animation" width="300" />
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/veysel-basan-07004130a">
