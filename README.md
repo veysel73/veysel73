@@ -219,7 +219,7 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 <!-- Animated Social Media GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Social Connect" width="400" />
-  <img src="https://tenor.com/tr/view/araslot-instagram-gif-4811728675841440778" alt="Social Connect" width="400" />
+ <div class="tenor-gif-embed" data-postid="4811728675841440778" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/araslot-instagram-gif-4811728675841440778">Araslot Instagram Sticker</a>from <a href="https://tenor.com/search/araslot+instagram-stickers">Araslot Instagram Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
 </p>
 
