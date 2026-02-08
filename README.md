@@ -220,6 +220,8 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Social Connect" width="400" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW96bHl2ZGRtZ3k5OW16ampuZzU4YnpnbjN0d2lzejNzc2dhNGozZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Social Connect" width="400" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl4YXhmMXp4bWYzbnkzN25pcGlnbXNxcnhhdmtqd25jNGk0bTMzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZOxRp5tZTemNQzpgc/giphy.gif" alt="Social Connect" width="400" />
+
 
 </p>
 
