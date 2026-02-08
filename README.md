@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Veysel%20Basan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=👋+Welcome+to+my+Digital+Playground!;Full+Stack+Developer+%7C+AI+Enthusiast+%7C+VR+Creator;Building+the+Future%2C+One+Line+at+a+Time+✨" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+Digital+Playground!;Full+Stack+Developer+|+AI+Enthusiast+|+VR+Creator;Building+the+Future,+One+Line+at+a+Time+✨" alt="Typing SVG" />
+</p>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=70&lines=💻+Building+the+Future+with+Code;🤖+AI+%7C+Computer+Vision+%7C+VR+Development;🚀+Always+Learning%2C+Always+Creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=💻+Building+the+Future+with+Code;🤖+AI+|+Computer+Vision+|+VR+Development;🚀+Always+Learning,+Always+Creating" alt="Typing SVG" />
 </p>
 
 <!-- Animated Line -->
@@ -54,7 +54,7 @@
 
 <!-- About Me Section with Neon Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=🚀+ABOUT+ME+🚀" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=🚀+ABOUT+ME+🚀" alt="About Me" />
 </div>
 
 <br/>
@@ -82,7 +82,7 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 <!-- Current Projects with Animated Icons -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=550&lines=🎯+WHAT+I'M+WORKING+ON+🎯" alt="Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=550&lines=🎯+WHAT+I'M+WORKING+ON+🎯" alt="Projects" />
 </div>
 
 <br/>
@@ -119,7 +119,7 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 <!-- Tech Stack with Animations -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=00FF7F&center=true&vCenter=true&width=550&lines=⚡+TECH+STACK+%26+TOOLS+⚡" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00FF7F&center=true&vCenter=true&width=550&lines=⚡+TECH+STACK+%26+TOOLS+⚡" alt="Tech Stack" />
 </div>
 
 <br/>
@@ -156,7 +156,7 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 <!-- GitHub Stats with Glass Morphism -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=550&lines=📊+GITHUB+STATISTICS+📊" alt="Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=550&lines=📊+GITHUB+STATISTICS+📊" alt="Stats" />
 </div>
 
 <br/>
@@ -191,7 +191,7 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 <!-- Trophy Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=550&lines=🏆+ACHIEVEMENTS+%26+TROPHIES+🏆" alt="Trophies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=550&lines=🏆+ACHIEVEMENTS+%26+TROPHIES+🏆" alt="Trophies" />
 </div>
 
 <br/>
@@ -212,7 +212,7 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 <!-- Connect Section with Animated Icons -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=550&lines=🌐+LET'S+CONNECT!+🌐" alt="Connect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=550&lines=🌐+LET'S+CONNECT!+🌐" alt="Connect" />
 </div>
 
 <br/>
@@ -259,7 +259,7 @@ console.log("Welcome to " + veysel.name + "'s Profile! 🎉");
 
 <!-- Visitor Counter Footer -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Come+back+soon!+✨;Let's+build+something+amazing+together!+🚀" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Come+back+soon!+✨;Let's+build+something+amazing+together!+🚀" alt="Footer" />
 </div>
 
 <br/>
