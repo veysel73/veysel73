@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/25168840/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/25168849/README.2.md)
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -11,8 +11,18 @@
 
 <br/>
 
-<!-- Animated Snake eating contributions -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- 3D Rotating Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veysel73&custom_title=📈%20My%20Contribution%20Journey&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&theme=github-dark" width="100%" />
+
+<br/>
+
+<!-- Animated Tech Wave -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- Matrix Style Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=🔥+Coding+is+my+passion+%7C+Innovation+is+my+mission+🔥;💡+Learning+%7C+Creating+%7C+Innovating+%7C+Sharing+💡;🌟+From+Ideas+to+Reality%2C+One+Commit+at+a+Time+🌟" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 </div>
 
@@ -26,6 +36,20 @@
 </div>
 
 <br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- Holographic Badge Collection -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀_Code_Wizard-FF6B6B?style=for-the-badge&logo=codewars&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎨_Creative_Dev-4ECDC4?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖_AI_Explorer-FFE66D?style=for-the-badge&logo=tensorflow&logoColor=black" />
+  <img src="https://img.shields.io/badge/🥽_VR_Pioneer-A8E6CF?style=for-the-badge&logo=oculus&logoColor=black" />
+  <img src="https://img.shields.io/badge/☕_Coffee_Lover-C7B198?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <!-- About Me Section with Neon Effect -->
 <div align="center">
